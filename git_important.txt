@@ -1,0 +1,4 @@
+git pull --rebase origin main ---> itha remote la eruka file la local kku kondu varathu 
+
+
+git push -u origin main ---> ithu local la edit panitu last a remote ku kondu porathu /
